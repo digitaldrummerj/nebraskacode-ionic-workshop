@@ -58,7 +58,12 @@ All of these should return back a version number.
   git --version
 ```  
 
+## Software To Deploy to Device
 
+The previous installs got us everything that we need to be able to create an Ionic application and test it in the web browser but in order to deploy it to a device, we need to install some additional software.  Below are post blog that walk through the installations based on your OS.
+
+[OSx](http://digitaldrummerj.me/ionic-setup-osx/)
+[Windows](http://digitaldrummerj.me/Ionic-Setup-Windows/)
 
 ## See You There
 See you at the workshop.  If you have any questions before or after the workshop, you can find me one twitter at [http://twitter.com/digitaldrummerj](http://twitter.com/digitaldrummerj).
