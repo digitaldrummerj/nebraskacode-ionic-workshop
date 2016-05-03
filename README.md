@@ -29,10 +29,8 @@ If you are a web developer that has a desire to create a mobile application that
 * Visual Studo Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Git  -  [https://msysgit.github.io/](https://msysgit.github.io/)
     * Note: Mac already has it installed
-* Globally install npm packages:
 * Google Chrome - [https://www.google.com/chrome/browser/desktop/](https://www.google.com/chrome/browser/desktop/)
-
-
+* Globally install npm packages:
 ```
     npm install -g gulp bower cordova ionic
 ```
